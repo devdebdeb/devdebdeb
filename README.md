@@ -18,7 +18,7 @@ Sou um entusiasta de Inteligência Artificial focado em construir soluções de 
 * **Tecnologias:** Python, Llama 3 (Ollama), FastAPI, PostgreSQL (Supabase), Vector DB (Pinecone), S3 (Cloudflare R2), Docker.
 * **O que faz:** Combina o poder de LLMs com uma arquitetura de Retrieval-Augmented Generation (RAG) para oferecer táticas em tempo real. Inclui pipelines completos de extração de dados (Web Scraping e APIs), processamento (ETL) e deploy de uma API REST integrada a um frontend moderno.
 
-### 🧠 [Detecção de Fake News com Graph Neural Networks (TCC)]([link-para-o-repo-tcc])
+### 🧠 [Detecção de Fake News com Graph Neural Networks (TCC)](https://github.com/devdebdeb/tcc-gnn-fake-news)
 *Classificação de desinformação baseada em topologia de redes.*
 * **Tecnologias:** PyTorch Geometric, Scikit-learn, Transformers (BERT), NetworkX.
 * **O que faz:** Aplicação de Deep Learning em grafos para analisar árvores de propagação de notícias. Utiliza Graph Convolutional Networks (GCN, GAT) construídas do zero e modelos de linguagem (BERT) para extração de features e classificação binária no benchmark UPFD (Stanford).
