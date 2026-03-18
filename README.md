@@ -23,7 +23,7 @@ Sou um entusiasta de Inteligência Artificial focado em construir soluções de 
 * **Tecnologias:** PyTorch Geometric, Scikit-learn, Transformers (BERT), NetworkX.
 * **O que faz:** Aplicação de Deep Learning em grafos para analisar árvores de propagação de notícias. Utiliza Graph Convolutional Networks (GCN, GAT) construídas do zero e modelos de linguagem (BERT) para extração de features e classificação binária no benchmark UPFD (Stanford).
 
-### 🏛️ [Arquitetura de Dados - Pesquisa Acadêmica PUC-SP (CERAL)]([link-para-o-repo-se-houver])
+### 🏛️ [Arquitetura de Dados - Pesquisa Acadêmica PUC-SP (CERAL)](https://github.com/devdebdeb/BD-BUDISMO)
 *Estruturação e deploy de dados para pesquisa contínua.*
 * **Tecnologias:** MySQL, Python, PythonAnywhere.
 * **O que faz:** Planejamento, modelagem relacional, implementação e deploy na nuvem de um banco de dados voltado para mapeamento institucional, garantindo a integridade e a disponibilidade pública das informações coletadas.
