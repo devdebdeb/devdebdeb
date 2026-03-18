@@ -13,7 +13,7 @@ Sou um entusiasta de Inteligência Artificial focado em construir soluções de 
 
 ## 🚀 Projetos em Destaque
 
-### 🦅 [Metis - Agente de IA para League of Legends]([[link-para-o-repo-metis](https://github.com/Czar210/Metis)])
+### 🦅 [Metis - Agente de IA para League of Legends]([(https://github.com/Czar210/Metis)])
 *Aplicação end-to-end baseada em Agentes de IA e RAG.*
 * **Tecnologias:** Python, Llama 3 (Ollama), FastAPI, PostgreSQL (Supabase), Vector DB (Pinecone), S3 (Cloudflare R2), Docker.
 * **O que faz:** Combina o poder de LLMs com uma arquitetura de Retrieval-Augmented Generation (RAG) para oferecer táticas em tempo real. Inclui pipelines completos de extração de dados (Web Scraping e APIs), processamento (ETL) e deploy de uma API REST integrada a um frontend moderno.
